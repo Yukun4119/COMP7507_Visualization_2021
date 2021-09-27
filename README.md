@@ -32,7 +32,18 @@ Analyse the feature of traffic accidents and help government make better traffic
 
 ### Data source
 
-TODO 
+* Special Traffic News (2nd Generation, Simplified Chinese)
+  * data source: Public data provided by the Hong Kong government( https://data.gov.hk/en/)
+  * update every minutes
+  * features: incident_number, incident_heading, incident_detail, location, direction, incident_status, near_landmark, ID, content.
+* Traffic Data of Strategic / Major Roads
+  * data source: Public data provided by the Hong Kong government( https://data.gov.hk/en/)
+  * update every minutes
+  * features:
+    * Locations of Traffic Detectors
+    * Traffic Speed, Volume and Road Occupancy (Raw Data)
+    * Road Network Segments
+    * Traffic Speeds of Road Network Segments (Processed Data)
 
 ### List of tasks
 
