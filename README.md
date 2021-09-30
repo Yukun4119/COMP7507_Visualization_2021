@@ -18,27 +18,29 @@ XIA Kaibo 3035905936
 
 ### Project objectives: 
 
-Extract spatiotemporal pattern of traffic accidents. 
+Present the relationship between the data related to traffic accidents via modern visualization technologies.
 
-Analyse the feature of traffic accidents and help government make better traffic regulations. Also, it can avoid some of accidents in advance.
+Extract spatiotemporal pattern of traffic accidents.
+
+Analyse the feature of traffic accidents and suggest ways to avoid some of the accidents in advance. Also, it can help the government make better traffic regulations. 
 
 ### Methodology:
 
-* Tableau
-* Third-party packages in Python
-* React
-* Ant Design
-* Arcgis
+* Tableau: Tableau Desktop can help us quickly build figures and uncover unanticipated insights.  It is a powerful tool to achieve live data analytics and build interactive dashboards.
+* Third-party packages in Python: Python is a simple yet powerful development language. With the help of its rich third-party packages, we will build the figures we want.
+* React: The most popular front-end framework. We will use it to assemble our figures together and present them clearly.
+* Ant Design: Ant Design provides a set of high-quality React components out of the box. It will help make our presentations more varied.
+* Arcgis: A powerful geospatial data analysis and presentation tool.
 
 ### Data source
 
 * Special Traffic News (2nd Generation, Simplified Chinese)
   * data source: Public data provided by the Hong Kong government( https://data.gov.hk/en/)
-  * update every minutes
+  * update every minute
   * features: incident_number, incident_heading, incident_detail, location, direction, incident_status, near_landmark, ID, content.
 * Traffic Data of Strategic / Major Roads
   * data source: Public data provided by the Hong Kong government( https://data.gov.hk/en/)
-  * update every minutes
+  * update every minute
   * features:
     * Locations of Traffic Detectors
     * Traffic Speed, Volume and Road Occupancy (Raw Data)
@@ -47,15 +49,15 @@ Analyse the feature of traffic accidents and help government make better traffic
 
 ### List of tasks
 
-* Data Wrangling: JPY
+* Data Preparation and Data Wrangling: Jia
 
-* Data Analysis: All
+* Data Visualization and Data Analysis: All of the members
 
-* Website demo: SYK CGH
+* Website Demo: Shang, Chen
 
-* Demo video: XKB
+* Making Demo Video: Xia
 
-* Group project: SYK CGH
+* Group Project: Shang, Chen
 
   
 
