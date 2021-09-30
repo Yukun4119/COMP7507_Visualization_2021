@@ -26,11 +26,25 @@ Analyse the feature of traffic accidents and suggest ways to avoid some of the a
 
 ### Methodology:
 
-* Tableau: Tableau Desktop can help us quickly build figures and uncover unanticipated insights.  It is a powerful tool to achieve live data analytics and build interactive dashboards.
-* Third-party packages in Python: Python is a simple yet powerful development language. With the help of its rich third-party packages, we will build the figures we want.
-* React: The most popular front-end framework. We will use it to assemble our figures together and present them clearly.
-* Ant Design: Ant Design provides a set of high-quality React components out of the box. It will help make our presentations more varied.
-* Arcgis: A powerful geospatial data analysis and presentation tool.
+* Tableau: 
+
+  Tableau Desktop can help us quickly build figures and uncover unanticipated insights.  It is a powerful tool to achieve live data analytics and build interactive dashboards.
+
+* Third-party packages in Python: 
+
+  Python is a simple yet powerful development language. With the help of its rich third-party packages, we will build the figures we want.
+
+* React: 
+
+  The most popular front-end framework. We will use it to assemble our figures together and present them clearly.
+
+* Ant Design: 
+
+  Ant Design provides a set of high-quality React components out of the box. It will help make our presentations more varied.
+
+* Arcgis:
+
+   A powerful geospatial data analysis and presentation tool.
 
 ### Data source
 
