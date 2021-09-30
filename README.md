@@ -22,7 +22,7 @@ Present the relationship between the data related to traffic accidents via moder
 
 Extract spatiotemporal pattern of traffic accidents.
 
-Analyse the feature of traffic accidents and suggest ways to avoid some of the accidents in advance. Also, it can help the government make better traffic regulations. 
+Analyze the feature of traffic accidents and suggest ways to avoid some of the accidents in advance. Also, it can help the government make better traffic regulations. 
 
 ### Methodology:
 
@@ -32,15 +32,17 @@ Analyse the feature of traffic accidents and suggest ways to avoid some of the a
 
 * Third-party packages in Python: 
 
-  Python is a simple yet powerful development language. With the help of its rich third-party packages, we will build the figures we want.
+  Python is a simple yet powerful development language. With the help of its rich third-party packages (e.g.,  numpy, pandas, matplotlib and so on), we could wrangle and analyze our data efficiently.
 
 * React: 
 
-  The most popular front-end framework. We will use it to assemble our figures together and present them clearly.
+  The most popular front-end framework. We will use it to assemble our figures together and present them clearly. React is an ideal framework to present our visualization work.
 
 * Ant Design: 
 
-  Ant Design provides a set of high-quality React components out of the box. It will help make our presentations more varied.
+  Ant Design provides a set of high-quality React components out of the box. It will help make our presentations more varied. 
+
+  We decide to use React & Ant Design to give a demonstration of our project.
 
 * Arcgis:
 
