@@ -6,65 +6,65 @@
 
 Visual analysis of traffic accidents in Hong Kong
 
-### Members:
+### Members
 
 Chen Guohua 3035906320
 
 Jia Pengyue 3035911351
 
-Shang Yukun  3035906318
+Shang Yukun 3035906318
 
-XIA Kaibo 3035905936
+Xia Kaibo 3035905936
 
-### Project objectives: 
+### Objectives
 
-Present the relationship between the data related to traffic accidents via modern visualization technologies.
+1. Present the relationship between the data related to traffic accidents via modern visualization technologies.
 
-Extract spatiotemporal pattern of traffic accidents.
+2. Extract spatiotemporal patterns of traffic accidents.
 
-Analyze the feature of traffic accidents and suggest ways to avoid some of the accidents in advance. Also, it can help the government make better traffic regulations. 
+3. Analyze the features of traffic accidents, and give several practical suggestions for the government to take effective measures in advance to avoid some accidents.
 
-### Methodology:
+### Methodology
 
-* Tableau: 
+* **Tableau**
 
   Tableau Desktop can help us quickly build figures and uncover unanticipated insights.  It is a powerful tool to achieve live data analytics and build interactive dashboards.
 
-* Third-party packages in Python: 
+* **Third-party packages in Python**
 
   Python is a simple yet powerful development language. With the help of its rich third-party packages (e.g.,  numpy, pandas, matplotlib and so on), we could wrangle and analyze our data efficiently.
 
-* React: 
+* **React**
 
   The most popular front-end framework. We will use it to assemble our figures together and present them clearly. React is an ideal framework to present our visualization work.
 
-* Ant Design: 
+* **Ant Design**
 
   Ant Design provides a set of high-quality React components out of the box. It will help make our presentations more varied. 
 
   We decide to use React & Ant Design to give a demonstration of our project.
 
-* Arcgis:
+* **ArcGIS**
 
    A powerful geospatial data analysis and presentation tool.
 
-### Data source
+### Data Source
 
 * Special Traffic News (2nd Generation, Simplified Chinese)
-  * data source: Public data provided by the Hong Kong government( https://data.gov.hk/en/)
-  * update every minute
-  * features: incident_number, incident_heading, incident_detail, location, direction, incident_status, near_landmark, ID, content.
+  * Data source: Public data provided by the Hong Kong Government (https://data.gov.hk/en/)
+  * Update every minute
+  * Features: incident_number, incident_heading, incident_detail, location, direction, incident_status, near_landmark, ID, content.
   
 * Traffic Data of Strategic / Major Roads
-  * data source: Public data provided by the Hong Kong government( https://data.gov.hk/en/)
-  * update every minute
-  * features:
+  * Data source: Public data provided by the Hong Kong Government (https://data.gov.hk/en/)
+  * Update every minute
+  * Features:
     * Locations of Traffic Detectors
     * Traffic Speed, Volume and Road Occupancy (Raw Data)
     * Road Network Segments
     * Traffic Speeds of Road Network Segments (Processed Data)
 
-### List of tasks
+### List of Tasks
 
 * Data Preparation and Data Wrangling: Jia
 
@@ -72,11 +72,8 @@ Analyze the feature of traffic accidents and suggest ways to avoid some of the a
 
 * Website Demo: Shang, Chen
 
-* Making Demo Video: Xia
+* Demo Video Production: Xia
 
 * Group Project: Shang, Chen
 
-  
-
-  
 
