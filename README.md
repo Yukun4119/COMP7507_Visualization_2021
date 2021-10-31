@@ -66,7 +66,19 @@ Xia Kaibo 3035905936
 
 ### List of Tasks
 
-* Data Preparation and Data Wrangling: Jia
+* [x] Data Preparation and Data Wrangling: Jia
+
+* [ ] Accident 
+  * [ ] Temporal : table, chart : XKB
+  * [ ] Spacial: table, map : JPY
+* [ ] Speed
+  * [ ] Temporal: table, chart : CGH
+  * [ ] Spacial: table, map: JPY
+* [ ] Web site:  SYK
+
+
+
+### ARCHIVED
 
 * Data Visualization and Data Analysis: All of the members
 
@@ -75,5 +87,4 @@ Xia Kaibo 3035905936
 * Demo Video Production: Xia
 
 * Group Project: Shang, Chen
-
 
