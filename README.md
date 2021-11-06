@@ -88,3 +88,27 @@ Xia Kaibo 3035905936
 
 * Group Project: Shang, Chen
 
+
+
+## Task 11.12:
+
+* [ ] Website: (15min)
+
+  * [ ] Overview :  background(2min) question, abstract) SYK
+
+  * [ ] Data: how to get our data: JPY SYK
+
+  * [ ] Accident:  JPY XKG SYK
+
+  * [ ] speed: JPY CGH SYK
+
+  * [ ] analysis: result ALL
+
+  * [ ] github: intro. SYK
+
+  * [ ] Github React (deploy)  SYK
+
+  * [ ] PRE: JPY
+
+    
+
