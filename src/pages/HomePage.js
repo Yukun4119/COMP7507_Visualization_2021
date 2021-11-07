@@ -5,42 +5,9 @@ const { Header, Content, Footer } = Layout;
 const HomePage = () => {
     return(
         <div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
-            <div>Overview</div> 
+            <h1>Objectives </h1>
+            <p>Present the relationship between the data related to traffic accidents via modern visualization technologies.</p>
+
         </div>
     )
 } 

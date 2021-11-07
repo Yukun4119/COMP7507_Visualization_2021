@@ -2,9 +2,9 @@ import react from "react";
 
 const Data = () => {
     return(
-        <>
-            Data
-        </>
+        <div>
+            data
+        </div>
     )
 };
 
