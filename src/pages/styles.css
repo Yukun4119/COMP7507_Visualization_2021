@@ -11,3 +11,30 @@
   .site-layout .site-layout-background {
     background: #fff;
   }
+
+  .aboutImg { 
+    border-radius: 15px 50px 30px 5px;
+    /* border-radius: 25px; */
+  }
+
+  .title{
+    font-size : 50pt; 
+    text-transform : uppercase;
+    padding-top:200px;
+  }
+
+  .subtitle{
+    font-size : 15pt; 
+    text-decoration:underline;
+  }
+
+  .overview{
+    font-size : 50pt;  
+    text-transform : uppercase;
+    padding-top:300px;
+  }
+
+  .tips{
+    font-size : 15pt;
+    padding-top:30px;
+  }

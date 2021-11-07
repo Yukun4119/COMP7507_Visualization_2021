@@ -8,27 +8,19 @@ const Accident = () => {
             <div>
                 <Row gutter={[16, 24]}>
                     <Col className="gutter-row" span={12}>
-                        <img src = "./1_AccidentAnnouncement_by_Month.jpg"
+                        <img src = "AccFig1.jpg"
                              width = "100%"/>
                     </Col>
                     <Col className="gutter-row" span={12}>
-                        <img src = "2_AccidentAnnouncementbyQuarter.jpg"
+                        <img src = "AccFig2.jpg"
                              width = "100%"/>
                     </Col>
                     <Col className="gutter-row" span={12}>
-                        <img src = "3_AccidentAnnouncementbyweek.jpg"
+                        <img src = "AccFig3.jpg"
                              width = "100%"/>
                     </Col>
                     <Col className="gutter-row" span={12}>
-                        <img src = "4_AccidentAnnouncementbyday.jpg"
-                             width = "100%"/>
-                    </Col>
-                    <Col className="gutter-row" span={12}>
-                        <img src = "5_IncidentTypes_except_Road_Incident.jpg"
-                             width = "100%"/>
-                    </Col>
-                    <Col className="gutter-row" span={12}>
-                        <img src = "6_AccidentAnnouncementbytime.jpg"
+                        <img src = "AccFig4.jpg"
                              width = "100%"/>
                     </Col>
                 </Row>

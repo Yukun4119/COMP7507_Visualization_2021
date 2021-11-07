@@ -32,7 +32,7 @@ export default function Sider(props) {
             Analysis
           </Menu.Item>
           <Menu.Item key="6" onClick={handleClick}>
-            Github
+            About
           </Menu.Item>
         </SubMenu>
       </Menu>
