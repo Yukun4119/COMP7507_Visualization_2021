@@ -4,7 +4,7 @@ import  './styles.css'
 const { Header, Content, Footer } = Layout;
 const HomePage = () => {
     return(
-        <div> 
+        <div className = "accidentImg"> 
             <div className = "title">Relationship between the data related to traffic accidents.</div>
             <div className = "subtitle">COMP7507 Visualization and visual analytics</div>
             <div className = "subtitle">Group 16</div>

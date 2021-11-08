@@ -35,8 +35,11 @@ export default function App() {
 
   return (
     <div className="App">
-      <Layout style={{ minHeight: "100vh" }}>
-        <Sider handleClick={handleMenuClick} />
+      <Layout 
+      style={{ minHeight: "100vh"}}>
+        <Sider 
+        handleClick={handleMenuClick}
+         />
         <Layout>
           <Content>{components[render]}</Content>
         </Layout>

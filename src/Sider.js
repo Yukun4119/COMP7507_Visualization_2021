@@ -6,7 +6,13 @@ const { SubMenu } = Menu;
 export default function Sider(props) {
   const { handleClick } = props;
   return (
-    <Layout.Sider>
+    <Layout.Sider 
+    style={{
+      overflow: 'auto',
+      height: '100vh',
+      position: 'fixed',
+      left: 0,
+    }}>
       <Menu theme="dark" mode="inline" openKeys={"sub1"} defaultSelectedKeys={['1']}>
         <SubMenu
           key="sub1"
@@ -37,6 +43,5 @@ export default function Sider(props) {
         </SubMenu>
       </Menu>
     </Layout.Sider>
-    
   );
 }

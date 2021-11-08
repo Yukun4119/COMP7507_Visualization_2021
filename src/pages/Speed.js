@@ -1,8 +1,9 @@
 import react from "react";
+import "./styles.css"
 
 const Speed = () => {
     return(
-        <div>
+        <div className = "accidentImg">
             Speed Charts
             <div>
                 <iframe src="https://public.tableau.com/views/visualanalysis_16361132388280/1?:language=zh-CN&publish=yes&:display_count=n&:origin=viz_share_link&:showVizHome=no"
