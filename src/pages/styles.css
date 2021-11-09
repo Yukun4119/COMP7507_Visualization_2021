@@ -1,6 +1,5 @@
 @import '~antd/dist/antd.css';
 
-
 .logo {
     float: left;
     width: 120px;
@@ -18,9 +17,9 @@
   }
 
   .title{
-    font-size : 50pt; 
+    font-size : 35pt; 
     text-transform : uppercase;
-    padding-top:200px;
+    padding-top:50px;
   }
 
   .subtitle{
@@ -29,16 +28,23 @@
   }
 
   .overview{
-    font-size : 50pt;  
+    font-size : 35pt;  
     text-transform : uppercase;
-    padding-top:300px;
+    padding-top:50px;
   }
 
   .tips{
-    font-size : 15pt;
+    font-size : 25pt;
     padding-top:30px;
   }
 
   .accidentImg{
+    padding-left:400px;
+    padding-right:200px;
+  }
+
+  .dataImg{
+    padding-top:100px;
     padding-left:200px;
+
   }

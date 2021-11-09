@@ -31,9 +31,9 @@ export default function Sider(props) {
           <Menu.Item key="3" onClick={handleClick}>
             Accident
           </Menu.Item>
-          <Menu.Item key="4" onClick={handleClick}>
+          {/* <Menu.Item key="4" onClick={handleClick}>
             Speed
-          </Menu.Item>
+          </Menu.Item> */}
           <Menu.Item key="5" onClick={handleClick}>
             Analysis
           </Menu.Item>

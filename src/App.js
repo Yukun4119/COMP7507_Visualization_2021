@@ -22,7 +22,7 @@ export default function App() {
     1: <div style={style}> <Overview/> </div>,
     2: <div style={style}> <Data/></div>,
     3: <div style={style}> <Accident/></div>,
-    4: <div style={style}> <Speed/></div>,
+    // 4: <div style={style}> <Speed/></div>,
     5: <div style={style}> <Analysis/></div>,
     6: <div style={style}> <Github/></div>
   };
