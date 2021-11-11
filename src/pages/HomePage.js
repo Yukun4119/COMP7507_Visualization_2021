@@ -15,7 +15,7 @@ const HomePage = () => {
             <div className = "tips">3. Analyze the features. Give practical suggestions.</div>
 
             <div className = "overview">Road Traffic Accident Statistics in Hong Kong, 2009 to 2018</div> 
-            <div> Based on the road traffic accident data collected by the Hong Kong Police Force and maintained by the Transport Department, there were 15 935 road traffic accidents in Hong Kong in 2018, involving 19 637 casualties and 25 726 vehicles. This article presents the trends of road traffic casualties and accidents for the period from 2009 to 2018, and the characteristics of road users and vehicles involved.</div>
+            <div className = "tips"> Based on the road traffic accident data collected by the Hong Kong Police Force and maintained by the Transport Department, there were 15 935 road traffic accidents in Hong Kong in 2018, involving 19 637 casualties and 25 726 vehicles. This article presents the trends of road traffic casualties and accidents for the period from 2009 to 2018, and the characteristics of road users and vehicles involved.</div>
         </div>
     )
 } 

@@ -12,8 +12,9 @@
   }
 
   .aboutImg { 
-    border-radius: 15px 50px 30px 5px;
-    /* border-radius: 25px; */
+    border-radius: 100px;
+    width: 80px;
+    height: 80px;
   }
 
   .title{
@@ -36,6 +37,7 @@
   .tips{
     font-size : 25pt;
     padding-top:30px;
+    padding-bottom:30px;
   }
 
   .accidentImg{
@@ -45,6 +47,27 @@
 
   .dataImg{
     padding-top:100px;
-    padding-left:200px;
+  }
 
+  .smallLink{
+    font-size: 15pt;
+    padding-bottom:200px;
+  }
+
+
+  .aboutTitle{
+    font-size : 20pt; 
+    text-transform : uppercase;
+    padding-top:200px;
+  }
+
+
+  .aboutLink{
+    font-size : 20pt; 
+    text-decoration:underline;
+  }
+
+  .contributors{
+      text-align:left; /*文字左对齐*/
+      padding-left:200px;
   }
