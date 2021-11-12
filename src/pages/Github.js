@@ -14,19 +14,19 @@ const Github = () => {
             </div>
             <div className = "contributors">
                 <img className='aboutImg' src = "https://avatars.githubusercontent.com/u/50010920?s=96&v=4"/>
-                Yukun4119 Yukun SHANG
+                SHANG Yukun 3035906318 
             </div>
             <div className = "contributors">
                 <img className='aboutImg' src = "https://avatars.githubusercontent.com/u/58099973?v=4" />
-                Jia-py Jia Pengyue
+                Jia Pengyue 3035911351
             </div>
             <div className = "contributors">
             <img className='aboutImg' src = "https://raw.githubusercontent.com/Yukun4119/BlogImg/main/img/351636628159_.pic.jpg"/>
-                chenghgh
+                Chen Guohua 3035906320
             </div>
             <div className = "contributors">
             <img className='aboutImg' src = "https://raw.githubusercontent.com/Yukun4119/BlogImg/main/img/361636628167_.pic.jpg"/>
-            LocalHost808080 嘞萌
+                Xia Kaibo 3035905936
             </div>
         </div>
     )

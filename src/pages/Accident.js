@@ -11,7 +11,7 @@ const Accident = () => {
             <div >
                 <iframe
                     src="https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/k9ma138gbapw9cy/keplergl_s0dkd1q.json"
-                    width="1400" 
+                    width="1300" 
                     height="800"
                     >
                 </iframe>
