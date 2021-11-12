@@ -20,7 +20,7 @@ const Analysis = () => {
                 1. From the data tab, we can find that most accidents are road incidents. Vehicle speed is one of the most important facts in road incidents.
             </div>
             <div className = "tips">
-                2. From the figure above, there are several areas where accident is more frequent than others, and the average speed of vehicles are faster than other roads. In These areas or roads, we advise that the speed limit should be lower to reduce the possibility of accidents or road incidents. 
+                2. From the figure above, there are several areas where accident is more frequent than others, and the average speed of vehicles are faster than other roads. We advise that more warning signs be set up in these areas or roads to remind drivers to take care and slow down. 
             </div>
         </div>
     )
