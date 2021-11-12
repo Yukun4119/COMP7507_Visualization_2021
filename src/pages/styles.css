@@ -18,7 +18,7 @@
   }
 
   .title{
-    font-size : 35pt; 
+    font-size : 25pt; 
     text-transform : uppercase;
     padding-top:50px;
   }
@@ -29,13 +29,13 @@
   }
 
   .overview{
-    font-size : 35pt;  
+    font-size : 25pt;  
     text-transform : uppercase;
     padding-top:50px;
   }
 
   .tips{
-    font-size : 25pt;
+    font-size : 20pt;
     padding-top:30px;
     padding-bottom:30px;
   }
@@ -50,20 +50,20 @@
   }
 
   .smallLink{
-    font-size: 15pt;
+    font-size: 10pt;
     padding-bottom:200px;
   }
 
 
   .aboutTitle{
-    font-size : 20pt; 
+    font-size : 15pt; 
     text-transform : uppercase;
     padding-top:200px;
   }
 
 
   .aboutLink{
-    font-size : 20pt; 
+    font-size : 15pt; 
     text-decoration:underline;
   }
 

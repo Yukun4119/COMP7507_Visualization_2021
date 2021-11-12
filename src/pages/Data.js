@@ -11,17 +11,17 @@ const Data = () => {
         <div>
             <div className = "accidentImg">
                 <div className="title">
-                    Dataset1
-                    <img width = "5%" onClick={() => {handle("https://data.gov.hk/sc-data/dataset/hk-td-tis_19-special-traffic-news-v2/resource/f45a7b05-3811-4171-9165-e6b631feb156")}} src = "link@2x.png"/>
+                    Dataset1: Special-traffic news data
+                    <img width = "5%" onClick={() => {handle("https://data.gov.hk/en-data/dataset/hk-td-tis_19-special-traffic-news-v2/resource/9dc69d26-b62e-45b5-b222-384a685ed550")}} src = "link@2x.png"/>
                 </div>
-                <div className = "tips">Real-time data</div>
+                {/* <div className = "tips">Real-time data</div> */}
             
                 <div className="title">
-                    Dataset2
-                    <img width = "5%" onClick={() => {handle("https://data.gov.hk/sc-data/dataset/hk-td-sm_4-traffic-data-strategic-major-roads")}} src = "link@2x.png"/>
+                    Dataset2: Traffic Speeds of Road Network Segments
+                    <img width = "5%" onClick={() => {handle("https://data.gov.hk/en-data/dataset/hk-td-sm_4-traffic-data-strategic-major-roads/resource/76a23387-b82e-4518-8e93-ff74937326c0")}} src = "link@2x.png"/>
                 </div>
-                <div className = "tips">The location of detections in HK</div>
-                <div className = "tips">Updating frequency is in Minute</div>
+                {/* <div className = "tips">The location of detections in HK</div>
+                <div className = "tips">Updating frequency is in Minute</div> */}
             </div>
             <div className = "accidentImg">
                 <div>
